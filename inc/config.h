@@ -64,7 +64,7 @@
 
 //#define CONTROL_SERIAL_PROTOCOL                     // enables processing of input characters through 'protocol.c'
 //  #define SERIAL_USART2_IT                        // Interface for CONTROL_SERIAL_PROTOCOL
-  #define USART2_BAUD       19200                   // UART baud rate
+  #define USART2_BAUD       115200                   // UART baud rate
   #define USART2_WORDLENGTH UART_WORDLENGTH_8B      // UART_WORDLENGTH_8B or UART_WORDLENGTH_9B
 
 //  #define SERIAL_USART3_IT                          // Interface for CONTROL_SERIAL_PROTOCOL
